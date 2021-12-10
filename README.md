@@ -1,3 +1,15 @@
+# Proyecto de relojes echo con React
+## Desafio Frontend del curso FullStack de Digital House
+
+<a href="https://github.com/XmauricioX/RELOJES_REACT/blob/main/DESAFIO/Gu%C3%ADa%20practica%20-%20Creando%20una%20aplicaci%C3%B3n%20con%20React.docx.pdf">IR AL PDF<a>
+
+## Preview del desafio finalizado
+
+<img src="https://github.com/XmauricioX/RELOJES_REACT/blob/main/public/preview1.PNG">
+<img src="https://github.com/XmauricioX/RELOJES_REACT/blob/main/public/preview2.PNG">
+
+---------------------------------------------
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
